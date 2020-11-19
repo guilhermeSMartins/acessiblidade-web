@@ -1,0 +1,33 @@
+Autismo:
+- Evitar figuras de linguagem;
+- contraste de cores suave (https://color.adobe.com/pt/explore);
+
+
+Surdez:
+- Legendas em vídeo;
+- Textos menores;
+- Deixar contato por email/comunicação por texto;
+- UI com boa affordance (https://www.homemmaquina.com.br/o-que-e-affordance/);
+
+Dislexia: 
+- Não usar textos justificados;
+- Mais em https://www.designmantic.com/blog/infographics/designing-for-users-dyslexia/
+- Não usar textos sublinhados ou inteiros em capslock;
+
+Baixa visão:
+- Contraste de coares suave (https://contrastchecker.com/);
+- Não usar fontes pequenas;
+- Não passar informações só pela cor (especialmente em forms);
+
+PCD: 
+- Botões maiores, elementos clicaveis em tamanho fácil de ser clicado;
+- Não usar alertas "aleatórios";
+
+Cegos:
+- Evitar vários h1s na mesma página;
+- Utilizar lang nas tags (html ou outras) pro NVDA reconhecer o idioma;
+- Incluir <img> só se for relevante, sempre usar alt vazio se não for;
+- Esconder elementos descritivos com z-index = -1;
+- Evitar submenus;
+- Incluir botão escondido que aparece com tab e pula menu;
+- Ler mais sobre role e como usá-lo;
